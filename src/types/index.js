@@ -1,0 +1,1 @@
+export const FETCHING_LOGIN = 'FETCHING_LOGIN'

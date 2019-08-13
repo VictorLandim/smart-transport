@@ -1,0 +1,24 @@
+== SI APP BRAINSTORMING ==arn
+
+  -> name:
+    - Smart Transport
+    - algo em português (?)
+
+  -> screens: 
+    - Tutorial stack => future
+    - Auth stack -> (Login, resgister)
+    - Main stack with drawer
+      - Home (?)
+      - Balance + trasactions
+      - Point balance
+      - Add credit card
+      - Exchange points
+      - Credit cards
+      - Profile
+      - Settings
+      - Use service
+
+  -> Design:
+    - Pick font
+    - Cores
+    - Research!
